@@ -1,0 +1,14 @@
+name: PSFLowChart
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/1b7c8fbb-3e81-4160-bbe3-0181f9bc3d30
+description: Create a PS1 script FlowChart
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
